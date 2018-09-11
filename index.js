@@ -1,4 +1,4 @@
-const postcss = require('postcss');
+var postcss = require('postcss');
 var assign = require('object-assign');
 
 var defaults = {
