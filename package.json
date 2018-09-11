@@ -1,5 +1,5 @@
 {
-  "name": "postcss-1px-svg",
+  "name": "postcss-retina-hairlines",
   "version": "1.0.0",
   "description": "retina hairline",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/anthinkingcoder/postcss-1px-svg.git"
+    "url": "git+https://github.com/anthinkingcoder/postcss-retina-hairlines.git"
   },
   "keywords": [
     "retina hairline",
@@ -19,13 +19,12 @@
   "author": "anthinkingcoder jojo837769723",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/anthinkingcoder/postcss-1px-svg/issues"
+    "url": "https://github.com/anthinkingcoder/postcss-retina-hairlines/issues"
   },
-  "homepage": "https://github.com/anthinkingcoder/postcss-1px-svg#readme",
+  "homepage": "https://github.com/anthinkingcoder/postcss-retina-hairlines#readme",
   "devDependencies": {
     "gulp": "^3.9.1",
-    "gulp-postcss": "^8.0.0",
-    "postcss-write-svg": "^3.0.1"
+    "gulp-postcss": "^8.0.0"
   },
   "dependencies": {
     "object-assign": "^4.1.1"
