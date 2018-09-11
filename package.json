@@ -1,6 +1,6 @@
 {
   "name": "postcss-retina-hairlines",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "retina hairline",
   "main": "index.js",
   "scripts": {
