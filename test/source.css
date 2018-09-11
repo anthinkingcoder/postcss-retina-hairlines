@@ -1,0 +1,7 @@
+.example {
+    border: 1px solid red;
+}
+
+.example1,.example2 {
+    border-left: 1px solid red;
+}

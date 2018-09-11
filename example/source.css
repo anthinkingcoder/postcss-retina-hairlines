@@ -1,0 +1,8 @@
+.example {
+    border-bottom: 1px solid transparent;
+    border-image: url("data:image/svg+xml;charset=utf-8,%3Csvg xmlns=\'http://www.w3.org/2000/svg\' height=\'1px\'%3E%3Crect fill='red' width=\'100%25\' height=\'50%25\'%3E %3C/rect%3E %3C/svg%3E")  0 0 1 0 stretch;
+}
+
+.example1,.example2 {
+    border-left: 1px solid red;
+}
